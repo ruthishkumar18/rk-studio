@@ -25,54 +25,30 @@ Thoughtful design. Clear pricing. Digital experiences made around your idea.
 
 ## 🖤 Our Services
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 👤 Personal Portfolio Websites
 A polished online profile for students, developers, creators, and professionals to showcase their skills, work, achievements, and journey.
 
 **Price range:** ₹500–₹3,000
-
-    </td>
-    <td width="50%" valign="top">
 
 ### 💍 Wedding Websites
 A personalized digital wedding experience with couple details, event information, photos, venue details, and optional interactive features.
 
 **Price range:** ₹500–₹3,000
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 🎉 Birthday & Party Invitations
 A custom-designed invitation website for birthdays and celebrations, made easy to share with friends and family.
 
 **Price:** ₹800 fixed for the agreed standard scope
-
-    </td>
-    <td width="50%" valign="top">
 
 ### 🍽️ QR Code Digital Menus
 A mobile-friendly digital menu for cafés and restaurants, helping customers browse offerings by scanning a QR code.
 
 **Starting price:** ₹500
 
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-
 ### ⭐ Digital Feedback Forms
 A simple customer feedback experience for small businesses. Data storage and dashboards are included only when specifically agreed as part of the project.
 
 **Starting price:** ₹300
-
-    </td>
-  </tr>
-</table>
 
 <sub>Prices are indicative advertised rates. Final pricing depends on agreed content, features, scope, and delivery. Domain registration, renewals, paid hosting, and third-party costs are separate unless explicitly included.</sub>
 
@@ -80,89 +56,44 @@ A simple customer feedback experience for small businesses. Data storage and das
 
 Take a look at selected examples of the experiences RK Studio creates.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### 👤 Personal Portfolio
 A sample direction for a modern personal portfolio and professional presence.
 
-<p><a href="https://ruthishkumar.vercel.app/"><strong>↗ View Live Demo</strong></a></p>
-
-    </td>
-    <td width="50%" valign="top">
+[**↗ View Live Demo**](https://ruthishkumar.vercel.app/)
 
 ### 💍 Wedding Website
 Explore a digital wedding invitation experience designed for a memorable celebration.
 
-<p><a href="https://rkstudio-wedding.vercel.app/"><strong>↗ View Live Demo</strong></a></p>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+[**↗ View Live Demo**](https://rkstudio-wedding.vercel.app/)
 
 ### 🎉 Birthday & Party Invitation
 A shareable invitation concept for birthdays and special occasions.
 
-<p><a href="https://rkstudio-birthdayinvitation.vercel.app/"><strong>↗ View Live Demo</strong></a></p>
-
-    </td>
-    <td width="50%" valign="top">
+[**↗ View Live Demo**](https://rkstudio-birthdayinvitation.vercel.app/)
 
 ### 🍽️ QR Code Digital Menu
 A digital menu concept for cafés and restaurants.
 
-<p><a href="https://rkstudio-qrcodedigitalmenu.vercel.app/"><strong>↗ View Live Demo</strong></a></p>
-
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
+[**↗ View Live Demo**](https://rkstudio-qrcodedigitalmenu.vercel.app/)
 
 ### ⭐ Digital Feedback Form
 A customer feedback experience for small businesses.
 
-<p><a href="https://rkstudio-digitalfeedbackform.vercel.app/"><strong>↗ View Live Demo</strong></a></p>
-
-    </td>
-  </tr>
-</table>
+[**↗ View Live Demo**](https://rkstudio-digitalfeedbackform.vercel.app/)
 
 ## 🧭 How It Works
 
-<table>
-  <tr>
-    <td align="center" width="25%">
+1. **01 · Share**  
+   Tell us your idea, goals, and requirements.
 
-**01 · Share**
+2. **02 · Confirm**  
+   Agree on price, scope, timeline, and deliverables.
 
-Tell us your idea, goals, and requirements.
+3. **03 · Create**  
+   Review the agreed design and share feedback.
 
-    </td>
-    <td align="center" width="25%">
-
-**02 · Confirm**
-
-Agree on price, scope, timeline, and deliverables.
-
-    </td>
-    <td align="center" width="25%">
-
-**03 · Create**
-
-Review the agreed design and share feedback.
-
-    </td>
-    <td align="center" width="25%">
-
-**04 · Deliver**
-
-Approve the final result and launch or receive the agreed deliverables.
-
-    </td>
-  </tr>
-</table>
+4. **04 · Deliver**  
+   Approve the final result and launch or receive the agreed deliverables.
 
 ## ✦ Why RK Studio?
 
@@ -212,9 +143,6 @@ Have a project in mind? Tell us what you need, and we can discuss a suitable app
 
 <a href="https://wa.me/917010329076?text=Hi%20RK%20Studio%2C%20I%27d%20like%20to%20discuss%20a%20project."><img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-Start%20a%20Conversation-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Chat on WhatsApp"></a>
 <a href="mailto:ruthishkumar.rk@gmail.com?subject=RK%20Studio%20Enquiry"><img src="https://img.shields.io/badge/Email%20RK%20Studio-Send%20an%20Enquiry-C8A75D?style=for-the-badge&logo=gmail&logoColor=171717" alt="Email RK Studio"></a>
-
-**Email:** [ruthishkumar.rk@gmail.com](mailto:ruthishkumar.rk@gmail.com)  
-**WhatsApp:** [+91 70103 29076](https://wa.me/917010329076)
 
 </div>
 
