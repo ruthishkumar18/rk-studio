@@ -102,7 +102,7 @@ A convenient way to collect customer feedback. Data storage, response dashboards
 
 ### A closer look at our digital experiences
 
-*Select any preview to open the live website.*
+*Click any preview to open its live website.*
 
 </div>
 
@@ -110,55 +110,55 @@ A convenient way to collect customer feedback. Data storage, response dashboards
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://ruthishkumar.vercel.app/"><strong>↗ OPEN LIVE WEBSITE</strong></a>
+<a href="https://ruthishkumar.vercel.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fruthishkumar.vercel.app/?w=1000" width="100%" alt="Personal portfolio live website preview"></a>
 
 ### 👤 Personal Portfolio
 
 A polished professional presence to introduce your journey, skills, and achievements.
 
-<a href="https://ruthishkumar.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-OPEN%20DEMO-C8A75D?style=for-the-badge&labelColor=171717" alt="Open personal portfolio demo"></a>
+<a href="https://ruthishkumar.vercel.app/"><strong>↗ OPEN LIVE PORTFOLIO</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://rkstudio-wedding.vercel.app/"><strong>↗ OPEN LIVE WEBSITE</strong></a>
+<a href="https://rkstudio-wedding.vercel.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Frkstudio-wedding.vercel.app/?w=1000" width="100%" alt="Wedding website live preview"></a>
 
 ### 💍 Wedding Website
 
 A personalized digital invitation for sharing the details of a special day.
 
-<a href="https://rkstudio-wedding.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20WEDDING%20DEMO-OPEN%20SITE-C8A75D?style=for-the-badge&labelColor=171717" alt="Open wedding website demo"></a>
+<a href="https://rkstudio-wedding.vercel.app/"><strong>↗ OPEN WEDDING DEMO</strong></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://rkstudio-birthdayinvitation.vercel.app/"><strong>↗ OPEN LIVE WEBSITE</strong></a>
+<a href="https://rkstudio-birthdayinvitation.vercel.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Frkstudio-birthdayinvitation.vercel.app/?w=1000" width="100%" alt="Birthday invitation live website preview"></a>
 
 ### 🎉 Birthday & Party Invitation
 
 A shareable invitation experience for birthdays and special celebrations.
 
-<a href="https://rkstudio-birthdayinvitation.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20INVITATION-OPEN%20DEMO-C8A75D?style=for-the-badge&labelColor=171717" alt="Open birthday invitation demo"></a>
+<a href="https://rkstudio-birthdayinvitation.vercel.app/"><strong>↗ OPEN INVITATION DEMO</strong></a>
 
 </td>
 <td width="50%" valign="top">
 
-<a href="https://rkstudio-qrcodedigitalmenu.vercel.app/"><strong>↗ OPEN LIVE WEBSITE</strong></a>
+<a href="https://rkstudio-qrcodedigitalmenu.vercel.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Frkstudio-qrcodedigitalmenu.vercel.app/?w=1000" width="100%" alt="QR digital menu live website preview"></a>
 
 ### 🍽️ QR Code Digital Menu
 
 A digital menu concept for convenient browsing on phones.
 
-<a href="https://rkstudio-qrcodedigitalmenu.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20DIGITAL%20MENU-OPEN%20DEMO-C8A75D?style=for-the-badge&labelColor=171717" alt="Open QR digital menu demo"></a>
+<a href="https://rkstudio-qrcodedigitalmenu.vercel.app/"><strong>↗ OPEN DIGITAL MENU</strong></a>
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-<a href="https://rkstudio-digitalfeedbackform.vercel.app/"><strong>↗ OPEN LIVE WEBSITE</strong></a>
+<a href="https://rkstudio-digitalfeedbackform.vercel.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Frkstudio-digitalfeedbackform.vercel.app/?w=1400" width="100%" alt="Digital feedback form live website preview"></a>
 
 ### ⭐ Digital Feedback Form
 
@@ -166,7 +166,7 @@ A simple customer feedback experience for small businesses.
 
 <div align="center">
 
-<a href="https://rkstudio-digitalfeedbackform.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20FEEDBACK%20FORM-OPEN%20DEMO-C8A75D?style=for-the-badge&labelColor=171717" alt="Open digital feedback form demo"></a>
+<a href="https://rkstudio-digitalfeedbackform.vercel.app/"><strong>↗ OPEN FEEDBACK FORM DEMO</strong></a>
 
 </div>
 
