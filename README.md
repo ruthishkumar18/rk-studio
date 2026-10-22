@@ -100,9 +100,9 @@ A convenient way to collect customer feedback. Data storage, response dashboards
 
 <div align="center">
 
-### A closer look at our digital experiences
+### Live website previews
 
-*Click any preview to open its live website.*
+*These thumbnails are captured from the deployed websites. Click a preview to visit the live demo.*
 
 </div>
 
@@ -110,7 +110,7 @@ A convenient way to collect customer feedback. Data storage, response dashboards
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://ruthishkumar.vercel.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fruthishkumar.vercel.app/?w=1000" width="100%" alt="Personal portfolio live website preview"></a>
+<a href="https://ruthishkumar.vercel.app/"><img src="https://image.thum.io/get/width/1000/crop/620/wait/5/noanimate/https://ruthishkumar.vercel.app/" width="100%" alt="Live screenshot of the personal portfolio website"></a>
 
 ### 👤 Personal Portfolio
 
@@ -121,7 +121,7 @@ A polished professional presence to introduce your journey, skills, and achievem
 </td>
 <td width="50%" valign="top">
 
-<a href="https://rkstudio-wedding.vercel.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Frkstudio-wedding.vercel.app/?w=1000" width="100%" alt="Wedding website live preview"></a>
+<a href="https://rkstudio-wedding.vercel.app/"><img src="https://image.thum.io/get/width/1000/crop/620/wait/5/noanimate/https://rkstudio-wedding.vercel.app/" width="100%" alt="Live screenshot of the wedding website"></a>
 
 ### 💍 Wedding Website
 
@@ -134,7 +134,7 @@ A personalized digital invitation for sharing the details of a special day.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://rkstudio-birthdayinvitation.vercel.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Frkstudio-birthdayinvitation.vercel.app/?w=1000" width="100%" alt="Birthday invitation live website preview"></a>
+<a href="https://rkstudio-birthdayinvitation.vercel.app/"><img src="https://image.thum.io/get/width/1000/crop/620/wait/5/noanimate/https://rkstudio-birthdayinvitation.vercel.app/" width="100%" alt="Live screenshot of the birthday invitation website"></a>
 
 ### 🎉 Birthday & Party Invitation
 
@@ -145,7 +145,7 @@ A shareable invitation experience for birthdays and special celebrations.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://rkstudio-qrcodedigitalmenu.vercel.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Frkstudio-qrcodedigitalmenu.vercel.app/?w=1000" width="100%" alt="QR digital menu live website preview"></a>
+<a href="https://rkstudio-qrcodedigitalmenu.vercel.app/"><img src="https://image.thum.io/get/width/1000/crop/620/wait/5/noanimate/https://rkstudio-qrcodedigitalmenu.vercel.app/" width="100%" alt="Live screenshot of the QR code digital menu"></a>
 
 ### 🍽️ QR Code Digital Menu
 
@@ -158,7 +158,7 @@ A digital menu concept for convenient browsing on phones.
 <tr>
 <td colspan="2" valign="top">
 
-<a href="https://rkstudio-digitalfeedbackform.vercel.app/"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Frkstudio-digitalfeedbackform.vercel.app/?w=1400" width="100%" alt="Digital feedback form live website preview"></a>
+<a href="https://rkstudio-digitalfeedbackform.vercel.app/"><img src="https://image.thum.io/get/width/1400/crop/620/wait/5/noanimate/https://rkstudio-digitalfeedbackform.vercel.app/" width="100%" alt="Live screenshot of the digital feedback form"></a>
 
 ### ⭐ Digital Feedback Form
 
