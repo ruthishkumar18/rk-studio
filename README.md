@@ -110,7 +110,7 @@ A convenient way to collect customer feedback. Data storage, response dashboards
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://ruthishkumar.vercel.app/"><img src="https://image.thum.io/get/width/1000/crop/620/noanimate/https://ruthishkumar.vercel.app/" width="100%" alt="Personal portfolio website preview"></a>
+<a href="https://ruthishkumar.vercel.app/"><strong>↗ OPEN LIVE WEBSITE</strong></a>
 
 ### 👤 Personal Portfolio
 
@@ -121,7 +121,7 @@ A polished professional presence to introduce your journey, skills, and achievem
 </td>
 <td width="50%" valign="top">
 
-<a href="https://rkstudio-wedding.vercel.app/"><img src="https://image.thum.io/get/width/1000/crop/620/noanimate/https://rkstudio-wedding.vercel.app/" width="100%" alt="Wedding website preview"></a>
+<a href="https://rkstudio-wedding.vercel.app/"><strong>↗ OPEN LIVE WEBSITE</strong></a>
 
 ### 💍 Wedding Website
 
@@ -134,7 +134,7 @@ A personalized digital invitation for sharing the details of a special day.
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://rkstudio-birthdayinvitation.vercel.app/"><img src="https://image.thum.io/get/width/1000/crop/620/noanimate/https://rkstudio-birthdayinvitation.vercel.app/" width="100%" alt="Birthday invitation website preview"></a>
+<a href="https://rkstudio-birthdayinvitation.vercel.app/"><strong>↗ OPEN LIVE WEBSITE</strong></a>
 
 ### 🎉 Birthday & Party Invitation
 
@@ -145,7 +145,7 @@ A shareable invitation experience for birthdays and special celebrations.
 </td>
 <td width="50%" valign="top">
 
-<a href="https://rkstudio-qrcodedigitalmenu.vercel.app/"><img src="https://image.thum.io/get/width/1000/crop/620/noanimate/https://rkstudio-qrcodedigitalmenu.vercel.app/" width="100%" alt="QR digital menu website preview"></a>
+<a href="https://rkstudio-qrcodedigitalmenu.vercel.app/"><strong>↗ OPEN LIVE WEBSITE</strong></a>
 
 ### 🍽️ QR Code Digital Menu
 
@@ -158,7 +158,7 @@ A digital menu concept for convenient browsing on phones.
 <tr>
 <td colspan="2" valign="top">
 
-<a href="https://rkstudio-digitalfeedbackform.vercel.app/"><img src="https://image.thum.io/get/width/1400/crop/620/noanimate/https://rkstudio-digitalfeedbackform.vercel.app/" width="100%" alt="Digital feedback form website preview"></a>
+<a href="https://rkstudio-digitalfeedbackform.vercel.app/"><strong>↗ OPEN LIVE WEBSITE</strong></a>
 
 ### ⭐ Digital Feedback Form
 
